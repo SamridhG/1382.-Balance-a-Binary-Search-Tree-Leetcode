@@ -8,7 +8,8 @@ A binary search tree is balanced if and only if the depth of the two subtrees of
 
 If there is more than one answer, return any of them.
 
- 
+ ![image](https://user-images.githubusercontent.com/63790684/124064783-1dadc400-da53-11eb-9845-9725f8e42bd7.png)
+
 ![image](https://user-images.githubusercontent.com/63790684/124064753-0e2e7b00-da53-11eb-8a42-0aa6886c5747.png)
 
 Example 1:
